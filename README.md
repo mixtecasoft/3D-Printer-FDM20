@@ -2,14 +2,14 @@
 
 > FDM20 3D printer configuration
 
-![Recordit GIF](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/assembly.gif)
+[![Assembly](https://github.com/mixtecasoft/3D-Printer-FDM20/blob/master/Images/Interface.PNG)]()
 
 ---
 
 ## Tabla de contenido
 
 - [Configuration](#Configuration)
-- [Graphic interface ](#Graphic interface )
+- [GUI](#GUI )
 - [Licencia](#License )
 
 
@@ -30,7 +30,7 @@ Below are the steps to follow for the configuration in both softwares:
 | Material: Impresión 3D  | Material: Acrílico   | Material: Acrílico  |
 
 
-### Graphic interface
+## GUI (Graphic interface)
 
 When the program is initialized, a window divided into 3 main environments opens:
 A) 3D environment navigation
