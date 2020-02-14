@@ -9,7 +9,7 @@
 ## Tabla de contenido
 
 - [Configuration](#Configuration)
-- [GUI](#GUI )
+- [GUI](#GUI)
 - [Licencia](#License )
 
 
@@ -30,7 +30,8 @@ Below are the steps to follow for the configuration in both softwares:
 | Material: Impresión 3D  | Material: Acrílico   | Material: Acrílico  |
 
 
-## GUI (Graphic interface)
+## GUI
+>Graphic interface
 
 When the program is initialized, a window divided into 3 main environments opens:
 A) 3D environment navigation
