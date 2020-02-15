@@ -2,7 +2,7 @@
 
 > FDM20 3D printer configuration
 
-[![Assembly](https://github.com/mixtecasoft/3D-Printer-FDM20/blob/master/Images/Interface.PNG)]()
+[![GUI](https://github.com/mixtecasoft/3D-Printer-FDM20/blob/master/Images/Interface.PNG)]()
 
 ---
 
@@ -22,7 +22,7 @@ printer in both Repetier Host and Slic3r.
 
 Below are the steps to follow for the configuration in both softwares:
 
-> Repetier Host
+### Repetier Host
 
 | Base inferior | Base intermedia  |  Base superior   |
 | :---: |:---:| :---:|
