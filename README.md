@@ -55,7 +55,7 @@ Doing this will open a new configuration window for the Slic3r processing softwa
 
 We must save all loaded configurations to be able to use them correctly.
 
-
+![Save ini](https://user-images.githubusercontent.com/60562869/74584185-15a3d000-4f95-11ea-8b97-37c27eb597bf.gif)
 
 ## GUI
 ### Graphic interface
@@ -116,6 +116,12 @@ This tab shows the commands and actions that Repetier executes.
 ![Console](https://user-images.githubusercontent.com/60562869/74583448-cf4a7300-4f8c-11ea-9031-931a97e63e33.PNG)
 
 ---
+### Additional features
+1. If you want to know more about the operation of Repetier Host and / or any of its options, go to the  [Repetier-Host](http://www.repetier.com/tutorials/) tutorials page.
+
+2. To see the full video of the configuration of the 3D printer FDM20 go to the following link of YouTube [ Projectile Mx](https://www.youtube.com/watch?v=67wcuKeKQ7k&t=306s).
+
+
 
 ## License  
 
