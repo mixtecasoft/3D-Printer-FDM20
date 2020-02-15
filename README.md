@@ -2,7 +2,7 @@
 
 > FDM20 3D printer configuration
 
-[![GUI](https://github.com/mixtecasoft/3D-Printer-FDM20/blob/master/Images/Interface.PNG)]()
+![GUI](C:\Users\Vikto\Desktop\Images)
 
 ---
 
