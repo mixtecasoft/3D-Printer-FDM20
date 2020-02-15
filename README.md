@@ -119,7 +119,7 @@ This tab shows the commands and actions that Repetier executes.
 ### Additional features
 1. If you want to know more about the operation of Repetier Host and / or any of its options, go to the  [Repetier-Host](http://www.repetier.com/tutorials/) tutorials page.
 
-2. To view the full video of the FDM 20 3D printer setup, go to the following [YouTube](https://www.youtube.com/watch?v=67wcuKeKQ7k&t=306s) or [GitHub](https://github.com/ProyectilMx) links created by Projectile Mx.
+2. To view the full video of the FDM 20 3D printer setup, go to the following [YouTube](https://www.youtube.com/watch?v=67wcuKeKQ7k&t=306s) or [GitHub](https://github.com/ProyectilMx) links created by Proyectil Mx.
 
 
 ## License  
